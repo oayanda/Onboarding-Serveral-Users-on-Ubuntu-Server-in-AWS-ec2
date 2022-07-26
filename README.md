@@ -1,2 +1,2 @@
 # Auxillary-Project
-Simple Shell Scripting to automate the creation 20 new users from a csv file.
+Simple Shell Scripting to automate the onboarding of 20 new users into a Linux ubuntu server from a csv file.
