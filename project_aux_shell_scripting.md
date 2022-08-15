@@ -60,4 +60,3 @@ Scroll to the top and click on Session and insert the public ip of the ubuntu se
 Login as James
 ![alt text](./images/40.png)
 
-Click to view **[Demo video](https://drive.google.com/file/d/15Rcy48DctwKd7UkBwIgBAdj88PXLiLAe/view?usp=sharing)**
